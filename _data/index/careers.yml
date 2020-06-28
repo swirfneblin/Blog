@@ -1,30 +1,172 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Neon
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: "To implement good practices of DevOps discipline (Leadership and collaboration)"
     i18n: company_a_desc
+  keywords:
+    detail: "[GoCD, Jenkins, Git, AWS, Elastic, Kubernetes, Docker, C#, GO, NodeJs, Vault, Kafka, Rabbit]"
+    i18n: company_a_keyword
   date:
-    detail: Apr. 2016
+    detail: Feb. 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Itaú Unibanco
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: "To drive and implementing a automation software using Machine Learning, NLP, APIs Rest (Development and Collaboration)"
     i18n: company_b_desc
+  keywords:
+    detail: "[MySQL, NodeJs, React, luis.ai, Python, Bootstrap, Git, Neo4J, Graylog, Semantic UI, Puppeteer, Selenium, MongoDb, TDD, Gherkin, Test Pyramid, NPM, RASA, Jupyter Notebook, R, Jenkins]"
+    i18n: company_b_keyword
   date:
-    detail: Jun. 2015
+    detail: Mar. 2017 - Jan. 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineer
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Mandic Cloud Solution
+    i18n: company_c
+  desc:
+    detail: "Development of control panel to integrate Cloud API, and CMDB solutions (Development and Collaboration)"
+    i18n: company_c_desc
+  keywords:
+    detail: "[Sql, MongoDb, C#, .NET Razor, API Rest, Entity Framework, Dependency injection, Design Patterns, HTML5, CSS3, Bootstrap, NodeJs, Log4Net, jQuery]"
+    i18n: company_c_keyword
+  date:
+    detail: Feb. 2015 - Feb. 2017
+    i18n: company_c_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Linx
+    i18n: company_d
+  desc:
+    detail: "Development of retail system, broker API using C#, Entity Framework, SQL Server 2012 and proprietary framework (Work under pressure)"
+    i18n: company_d_desc
+  keywords:
+    detail: "[Sql, C#, WebServices, SOAP, SOA, Entity Framework, Design Patterns, HTML, CSS, Javascript]"
+    i18n: company_d_keyword
+  date:
+    detail: Jun. 2014 - Sep. 2014
+    i18n: company_d_date
+  job:
+    detail: Senior System Analyst
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Mercado Eletrônico
+    i18n: company_e
+  desc:
+    detail: "Develepment e-procurement system and SAS integrations (Collaboration and Agile Methodology)"
+    i18n: company_e_desc
+  keywords:
+    detail: "[Sql, C#, .NET Razor, .NET MVC, Delphi, Dependency injection, WebServices, SOAP, SCRUM, HTML, CSS, Javascript, jQuery]"
+    i18n: company_e_keyword
+  date:
+    detail: Mar. 2012 - Jun. 2014
+    i18n: company_e_date
+  job:
+    detail: Senior System Analyst
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: DN IT Services
+    i18n: company_f
+  desc:
+    detail: "Constructs communication broker with airline companies and air ticket reservation. Management system of reservation, tickets, report, database integrations, stored procedures, database functions (Work under pressure, Agile Methodology and Development)"
+    i18n: company_f_desc
+  keywords:
+    detail: "[Sql, C#, .NET Razor, .NET MVC, WebForms, WebServices, SOAP, SCRUM, HTML, CSS, Javascript, jQuery, XML, Log4Net]"
+    i18n: company_f_keyword
+  date:
+    detail: Apr. 2011 - Feb. 2012
+    i18n: company_f_date
+  job:
+    detail: System Analyst II
+    i18n: company_f_job
+  icon: fa-plus-square
+
+- name:
+    detail: Secretaria de Educação do Estado da Bahia
+    i18n: company_g
+  desc:
+    detail: "Maintenance and development of account management systems of state. Integrations between multiple databases and database normalization. DBAdmin (Work under pressure, Agile Methodology and Development)"
+    i18n: company_g_desc
+  keywords:
+    detail: "[Sql, PHP, PostgreSql, VB, C#, HTML, CSS, Oracle 8, ASP]"
+    i18n: company_g_keyword
+  date:
+    detail: Jun. 2010 - Apr. 2011
+    i18n: company_g_date
+  job:
+    detail: System Analyst II
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: PRODEB - Companhia de Processamento de Dados do Estado da Bahia
+    i18n: company_h
+  desc:
+    detail: "Creation of communication portals to state departments through CMSs, system integrations and databases normalization. (Work under pressure and Collaboration)"
+    i18n: company_h_desc
+  keywords:
+    detail: "[Xoops, Joomla, Zope Plone, Drupal, Cake PHP, Linux Servers, php, JAVA, VB, ASP, PostegreSql, MySql, SQL]"
+    i18n: company_h_keyword
+  date:
+    detail: Mar. 2008 - Jun. 2010
+    i18n: company_h_date
+  job:
+    detail: System Analyst II
+    i18n: company_h_job
+  icon: fa-plus-square
+
+- name:
+    detail: Saltur/Emtursa
+    i18n: company_i
+  desc:
+    detail: "Teams management and system orchestration of the Salvador carnival event. (Leadership and Collaboration)"
+    i18n: company_i_desc
+  keywords:
+    detail: "[SQL, php, Joomla, Linux servers]"
+    i18n: company_i_keyword
+  date:
+    detail: Feb. 2007 & Feb. 2010 & Feb. 2011
+    i18n: company_i_date
+  job:
+    detail: Inter and Junior Dev
+    i18n: company_i_job
+  icon: fa-plus-square
+
+- name:
+    detail: Kontik Viagens
+    i18n: company_j
+  desc:
+    detail: "Constructs communication broker with airline companies and air ticket reservation. Management system of reservation, tickets, report, database integrations, stored procedures, database functions. Configure microcomputers, networks and Windows servers. (Work under pressure, Agile Methodology and Development)"
+    i18n: company_j_desc
+  keywords:
+    detail: "[C#, Webforms, WebServices, SOAP, Design Patterns, ASP, SQL, HTML, CSS, Javascript]"
+    i18n: company_j_keyword
+  date:
+    detail: Mar. 2004 - Jun. 2008
+    i18n: company_j_date
+  job:
+    detail: Inter and Junior Dev
+    i18n: company_j_job
   icon: fa-plus-square
