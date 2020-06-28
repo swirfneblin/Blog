@@ -22,15 +22,15 @@ author: # change following line to your infomation.
   cv: https://tinyurl.com/y932qhcr # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: /static/assets/img/landing/logo-k8s.png
-    - name: /static/assets/img/landing/logo-linux.png
-    - name: /static/assets/img/landing/logo-node.png
-    - name: /static/assets/img/landing/logo-aws.png
+    - name: static/assets/img/landing/logo-k8s.png
+    - name: static/assets/img/landing/logo-linux.png
+    - name: static/assets/img/landing/logo-node.png
+    - name: static/assets/img/landing/logo-aws.png
   skill_icon2:
-    - name: /static/assets/img/landing/logo-python.png
-    - name: /static/assets/img/landing/logo-git.png
-    - name: /static/assets/img/landing/logo-csharp.png
-    - name: /static/assets/img/landing/logo-docker.png
+    - name: static/assets/img/landing/logo-python.png
+    - name: static/assets/img/landing/logo-git.png
+    - name: static/assets/img/landing/logo-csharp.png
+    - name: static/assets/img/landing/logo-docker.png
   skill_icon3:
   skill_icon4:
   desc: Trust your life to someone who is loyal and respectful like your dog!
