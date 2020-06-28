@@ -1,24 +1,24 @@
 {
   "website": {
-    "title": "Charles Damasceno's blog"
+    "title": "Blog de Charles Damasceno"
   },
   "nav": {
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "career": "Career",
+    "home": "Inicio",
+    "about_me": "Sobre",
+    "skills": "Habilidades",
+    "career": "Carreira",
     "blog": "Blog"
   },
   "about_me": {
-    "about_me": "About Me",
-    "des": "Trust your life to someone who is loyal and respectful like your dog!",
+    "about_me": "Sobre",
+    "des": "Confie sua vida a alguém leal como seu cão!",
     "subdesc": "[#dev, #cyclist, #cubeiro, #gamer, #movies, #books]"
   },
   "skills": {
-    "my_skills": "My Skills"
+    "my_skills": "Habilidades"
   },
   "career": {
-    "my_career": "My Career",
+    "my_career": "Carreira",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
@@ -37,6 +37,6 @@
     "college_job": "Student"
   },
   "blog": {
-    "my_blog": "My Blog"
+    "my_blog": "Blog"
   }
 }

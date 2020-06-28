@@ -4,7 +4,7 @@
 title: Charles Damasceno
 description: Swirfneblin's blog,use Jekyll and github pages.
 keywords: swirfneblin,blog,Jekyll,github,gh-pages
-url: https://jarrekk.github.io/swirfneblin # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://swirfneblin.github.io/blog # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog # url should be '/homepage/static/assets/img/blog' as before
 
@@ -37,8 +37,8 @@ author: # change following line to your infomation.
   subdesc: "[#dev, #cyclist, #cubeiro, #gamer, #movies, #books]"
 
 # comment
-disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: swirfneblin
+# disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: swirfneblin
 
 # analytics
 ## google analytics
@@ -55,7 +55,7 @@ gio:
   # id:
 
 ## donation
-donation: on # type 'on'/'off' to choice display donation button at post page or not
+donation: off # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on # index page carousel switch

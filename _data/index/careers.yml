@@ -5,7 +5,7 @@
     i18n: company_a
   desc:
     detail: "To implement good practices of DevOps discipline (Leadership and collaboration)"
-    i18n: company_a_desc
+    i18n: "company_a_desc"
   keywords:
     detail: "[GoCD, Jenkins, Git, AWS, Elastic, Kubernetes, Docker, C#, GO, NodeJs, Vault, Kafka, Rabbit]"
     i18n: company_a_keyword
