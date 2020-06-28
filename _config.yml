@@ -33,8 +33,9 @@ author: # change following line to your infomation.
     - name: static/assets/img/landing/logo-docker.png
   skill_icon3:
   skill_icon4:
-  desc: Trust your life to someone who is loyal and respectful like your dog!
-  subdesc: "[#dev, #cyclist, #cubeiro, #gamer, #movies, #books]"
+
+languages: ["pt", "en"]
+exclude_from_localizations: ["javascript", "images", "css"]
 
 # comment
 # disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
